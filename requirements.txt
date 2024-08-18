@@ -1,0 +1,12 @@
+ultralytics  # Install the latest version of YOLOv8
+
+opencv-python  # OpenCV for image processing, install the latest version
+
+numpy  # Install the latest version of NumPy
+
+matplotlib  # Optional: Install the latest version of Matplotlib
+
+torch  # Install the latest version of PyTorch (ensure to match your CUDA version if needed)
+torchvision  # Install the latest version of Torchvision
+
+argparse  
